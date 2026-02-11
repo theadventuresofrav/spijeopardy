@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Echo Jeopardy: AI Ultrasound Edition",
+  "description": "A Jeopardy-style quiz game focused on Ultrasound Physics hosted by Charon, The Guide. Features dynamic board generation, AI judging, and Text-to-Speech host commentary.",
+  "requestFramePermissions": []
+}
